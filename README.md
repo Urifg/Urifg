@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Uriel Fernández
 
-Software Engineer based in 🇪🇸 Spain
+Software Engineer and Team Lead based in 🇪🇸 Spain
 
 I’m not a great programmer — yet — but I’m fully committed to becoming one, and I love the process.
 I’d rather struggle while improving than never try at all.
